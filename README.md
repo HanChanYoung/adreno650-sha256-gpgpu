@@ -1,0 +1,1 @@
+# adreno650-sha256-gpgpu
